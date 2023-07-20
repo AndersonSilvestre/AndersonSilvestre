@@ -1,4 +1,9 @@
-### Hi there 👋
+## Hi there,
+I'm Anderson, but call me Andy.
+
+I'm Learning Python and a little bit of shell/Bash.
+
+That's it.
 
 <!--
 **AndersonSilvestre/AndersonSilvestre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +19,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![Anderson GitHub stats](https://github-readme-stats.vercel.app/api?username=AndersonSilvestre&show_icons=true&theme=synthwave&hide=contribs)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndersonSilvestre&layout=compact&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
